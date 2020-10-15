@@ -25,6 +25,8 @@
 
 **Disclaimer:** This is an unofficial community project which is not affiliated with N26 GmbH/N26 Inc.
 
+**This is a fork of the original project that adds the bank transfer functionality to the CLI.**
+
 ## Install
 
 ```shell
